@@ -6,7 +6,7 @@
 
 This demonstration outlines the post-install configuration of the open-source help desk ticketing system "osTicket".
 
-_<b>NOTE:</b> This demonstration uses materials created in the previous demonstration, ["Prerequisites and Installation"](https://github.com/JTYKolesar/osticket-prereqs)._
+_<b>NOTE:</b> This demonstration uses materials created in the previous demonstration, ["Prerequisites and Installation"](https://github.com/terikaj/osticket-prereqs)._
 
 <h2>Environments and Technologies Used</h2>
 
