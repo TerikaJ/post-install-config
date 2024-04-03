@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/KzJbWRS.png" height="50%" width="50%" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>osTicket - Post-Installation Configuration</h1>
 
 This demonstration outlines the post-install configuration of the open-source help desk ticketing system "osTicket".
 
