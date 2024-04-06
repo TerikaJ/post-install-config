@@ -45,48 +45,48 @@ _Credentials and configurations that will be used in this demonstration can be f
 <img width="700" alt="Screen Shot 2024-04-05 at 3 39 08 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/87c59a3c-5446-41d8-9194-390a5d798408">
 </p>
 
-- Currently at the Agent Panel, click on "Admin Panel" at the top-right of the page.
+- Click the "Admin Panel" button at the top-right of the page.
 <p align=center>
 <img width="700" alt="Screen Shot 2024-04-05 at 3 40 03 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/588802ac-bfab-490f-bca3-b22ea1c9e63b">
 </p>
 
-- Click on the "Agents" tab > "Roles" > "Add New Role".
+- Click the "Agents" tab > "Roles" > "Add New Role".
 <p align=center>
 d<img width="700" alt="Screen Shot 2024-04-05 at 3 44 25 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/3a31d524-d2f7-44b5-b9ac-93d498ee6c66">
 
 </p>
 
-_"Roles are the permissions granted to Agents per Department that they have access to."_
-- In the Definition tab, type any Role name of your choice (this example uses **Supreme Admin**).
+_"Roles are the permissions granted to Agents via the Department they're responsible for."_
+- In the "Definition" tab, type any "Role" name of your choice (this example uses **Supreme Admin**).
   - _This role will be given all permissions._
-- Then, click on the Permissions tab.
+- Then, click the Permissions tab.
 <p align=center>
 <img width="700" alt="Screen Shot 2024-04-05 at 3 47 05 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/f6fea620-99c1-4fc9-b16e-c21162bb3364">
 </p>
 
-- In the Permissions tab, under the Tickets category, checkmark ALL boxes.
-  - Go through both Tasks and Knowledgebase categories and checkmark ALL boxes as well.
+- In the "Permissions" tab, under the "Tickets" category, checkmark ALL boxes.
+  - Navigate through the Tasks and Knowledgebase categories and checkmark ALL boxes as well.
 - Once done, click "Add Role".
 <p align=center>
 <img width="700" alt="Screen Shot 2024-04-05 at 3 49 46 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/975b2744-19a2-4eab-bf9a-aeaf593e094e">
 </p>
 
-_Now we've created a Supreme Admin role with all permissions granted. Next, we'll create a Department._
-- Currently in the Agents tab, click on the "Departments" category.
+_Now we've created a Supreme Admin role with ALL permissions granted. Next, we'll create a Department._
+- Currently in the "Agents" tab, click the "Departments" category.
 - Click "Add New Department".
 <p align=center>
 <img width="700" alt="Screen Shot 2024-04-05 at 3 52 46 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/f633bb70-66ed-4380-9813-6d4e608f592e">
 </p>
 
 - Create a Department name of your choice (this example uses **System Administrators**).
-- Skip everything else for now and click "Create Dept".
+- Skip everything else and click "Create Dept".
 <p align=center>
 <img width="700" alt="Screen Shot 2024-04-05 at 3 55 01 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/69aea382-d1a0-4ed9-8d00-764f701e3f63">
 </p>
 
 _Next, we'll move onto creating a Team._ <br>
-_"Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter."_
-- Currently in the Agents tab, click on the "Teams" category.
+_"Teams allow us to pull Agents from different Departments and organize them in order handle specific issues or user via a Help Topic, or through the Ticket Filter."_
+- Currently in the "Agents" tab, click the "Teams" category.
 - Click "Add New Team".
 <p align=center>
 <img width="700" alt="Screen Shot 2024-04-05 at 3 56 11 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/f84ffc2a-97f2-4e05-ab2c-2d605ae69ce3">
@@ -98,12 +98,12 @@ _"Teams allow you to pull Agents from different Departments and organize them to
 <img width="903" alt="Screen Shot 2024-04-05 at 4 13 12 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/43bbb965-9b34-4a6d-b16d-262113befec5">
 </p>
 
-- Currently in the Agents tab, click "Agents" category.
+- Currently in the "Agents" tab, click the "Agents" category.
 <p align=center>
 <img width="900" alt="Screen Shot 2024-04-05 at 4 14 19 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/0db711c3-cba1-422d-8127-7c64c708fbcf">
 </p>
 
-- Create the required credentials for this user that are in bold:
+- Create the required credentials for this user listed in bold:
   - First Name (this example uses **Jane**).
   - Last Name (this example uses **Doe**).
   - Email Address (this example uses **jane.doe@osTicket.com**).
@@ -118,23 +118,23 @@ _"Teams allow you to pull Agents from different Departments and organize them to
 <img width="607" alt="Screen Shot 2024-04-05 at 4 19 31 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/3f3ee42e-e7c2-49e4-b3cd-8e009b50a569">
 </p>
 
-- Click on the "Access" tab:
-  - Assign this user the Department that we created (this example uses **System Administrators**).
-  - Assign this user the Role that we created (this example uses **Supreme Admin**).
-- Under Extended Access, assign this user the "Support" department with the "Supreme Admin" role.
+- Click the "Access" tab:
+  - Assign this user to the Department we created (this example uses **System Administrators**).
+  - Assign this user to the Role that we created (this example uses **Supreme Admin**).
+- Under "Extended Access", assign this user to the "Support" department with the "Supreme Admin" role.
 - Click "Save Changes".
 <p align=center>
 <img width="902" alt="Screen Shot 2024-04-05 at 4 23 18 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/131cac3d-9d34-48e1-9019-7433bcb4767f">
 </p>
 
 - Click on the "Teams" tab:
-  -  Assign this user the Team that we created (this example uses **Level II Support**).
+  -  Assign this user to the Team that we created (this example uses **Level II Support**).
 -  Once done, click "Create".
 <p align=center>
 <img width="903" alt="Screen Shot 2024-04-05 at 4 26 02 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/4d1e52ba-2873-4e29-84d6-1e074c00335d">
 </p>
 
-_Create another Agent following the steps, however assign it to a different Role and Department._</br>
+_Create a second Agent following the same steps, however, assign this agent to a different Role and Department._</br>
 _This example creates Agent **"John Doe"** | Department: **"Level I Support"** | Role: **"View only** | Extended Access: **Support"**_.
 <p align=center>
 <img width="933" alt="Screen Shot 2024-04-05 at 4 30 07 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/83860e77-4937-49e4-a583-249c0e9ccdd9">
@@ -144,13 +144,13 @@ _This example creates Agent **"John Doe"** | Department: **"Level I Support"** |
 
 <h3>&#9314; Agent Panel - Creating Users</h3>
 
-- Click on "Agent Panel" on the top-right of the page.
+- Click "Agent Panel" at the top-right of the page.
 <p align=center>
 <img src="https://i.imgur.com/A6lRMQN.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- Click on the "Users" tab.
-- Click on "Add User".
+- Click the "Users" tab.
+- Click "Add User".
 - Create an Email Address and Full Name for this user (this example uses **karen@osticket.com / Karen Karen**).
 - Click "Add User".
 <p align=center>
@@ -167,9 +167,9 @@ _Create another user of your choice (this example uses **ken@osticket.com / Ken 
 
 <h3>&#9315; Admin Panel - Configuring SLA</h3>
 
-_"SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed."_
+_"SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA is to provide a length of time in which the help desk Administrator should be expected to resolve and close the tickets."_
 - Return to the "Admin Panel".
-  - Navigate to "Manage" tab > "SLA".
+  - Navigate to the "Manage" tab > "SLA".
 - Click "Add New SLA Plan".
 <p align=center>
 <img width="750" alt="Screen Shot 2024-04-05 at 4 43 02 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/7e909d9b-0cb9-4fff-9e6b-ff0bf921018b">
@@ -177,7 +177,7 @@ _"SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose 
 
 - Create the following plans:
   - **SEV-A**
-    - Grace Period: **1 hour** (_Amount, in hours, before tickets with this SLA will become overdue if not closed in allotted time._)
+    - Grace Period: **1 hour** (_Amount, in hours, tickets with this SLA will become overdue if not closed in allotted time._)
     - Schedule: **24/7** (_Accounted for all days of the week, even on non-business days_)
   
   - **SEV-B**
@@ -187,7 +187,7 @@ _"SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose 
   - **SEV-C**
     - Grace Period: **8 hours**
     - Schedule: **Monday - Friday 8am - 5pm with U.S. Holidays**
-- Click "Add Plan" for each.
+- Click "Add Plan" for each SLA.
 <p align=center>
 <img width="750" alt="Screen Shot 2024-04-05 at 4 48 00 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/984fc86c-086d-4e57-b7e2-e94284424625">
 <img width="750" alt="Screen Shot 2024-04-05 at 4 50 26 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/87de32d6-f4dd-4ede-9f47-eba712c0a40b">
@@ -196,8 +196,8 @@ _"SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose 
 
 <h3>&#9316; Configure Help Topics</h3>
 
-_Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket._
-- Currently in the Admin Pangel, navigate to "Manage" tab > "Help Topics".
+_Help Topics will streamline our end-user’s help desk experience to ensure proper assignment and prompt response to the ticket._
+- In the "Admin Panel", navigate to "Manage" tab > "Help Topics".
 - Click "Add New Help Topic".
 <p align=center>
 <img width="750" alt="Screen Shot 2024-04-05 at 4 52 25 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/42811d56-4081-40c3-8594-e8a27fefc075">
@@ -208,8 +208,8 @@ _Help Topics will help streamline your end-user’s help desk experience to ensu
   - **Personal Computer Issues**
   - **Equipment Request**
   - **Password Reset**
-- "Internal Notes" can be written down for personal use, but not necessary.
-- After that, click "Add Topic".
+- "Internal Notes" can be written down for personal use, but are not necessary.
+- Click "Add Topic".
 <p align=center>
 <img width="750" alt="Screen Shot 2024-04-05 at 4 55 14 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/0124ee33-e2b0-49ef-9dd3-d605248899a1">
 <img width="750" alt="Screen Shot 2024-04-05 at 4 58 35 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/26c6f45d-150f-4c60-aa91-91bb4d1cd607">
