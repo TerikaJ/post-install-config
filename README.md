@@ -154,13 +154,14 @@ _This example creates Agent **"John Doe"** | Department: **"Level I Support"** |
 - Create an Email Address and Full Name for this user (this example uses **karen@osticket.com / Karen Karen**).
 - Click "Add User".
 <p align=center>
-<img src="https://i.imgur.com/jTIRdhl.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/vn9DP8b.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="Screen Shot 2024-04-05 at 4 36 29 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/da6a0afc-73a4-45c1-a272-f4a5745687c9">
+<img width="750" alt="Screen Shot 2024-04-05 at 4 38 12 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/9016113b-26d4-425a-9179-15546dba48ab">
 </p>
 
 _Create another user of your choice (this example uses **ken@osticket.com / Ken Ken**)_
 <p align=center>
-<img src="https://i.imgur.com/H6Cgj0A.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="Screen Shot 2024-04-05 at 4 40 43 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/bacf31d0-b711-47c0-acc6-d4c9aa1c4892">
+<img width="750" alt="Screen Shot 2024-04-05 at 4 41 49 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/1b82dd37-5077-450d-828e-ba8000310eb9">
 </p>
 <hr>
 
@@ -171,7 +172,7 @@ _"SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose 
   - Navigate to "Manage" tab > "SLA".
 - Click "Add New SLA Plan".
 <p align=center>
-<img src="https://i.imgur.com/KSONgtH.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="Screen Shot 2024-04-05 at 4 43 02 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/7e909d9b-0cb9-4fff-9e6b-ff0bf921018b">
 </p>
 
 - Create the following plans:
@@ -188,8 +189,8 @@ _"SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose 
     - Schedule: **Monday - Friday 8am - 5pm with U.S. Holidays**
 - Click "Add Plan" for each.
 <p align=center>
-<img src="https://i.imgur.com/biqgLPr.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/vLW1yZs.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="Screen Shot 2024-04-05 at 4 48 00 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/984fc86c-086d-4e57-b7e2-e94284424625">
+<img width="750" alt="Screen Shot 2024-04-05 at 4 50 26 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/87de32d6-f4dd-4ede-9f47-eba712c0a40b">
 </p>
 <hr>
 
@@ -199,7 +200,7 @@ _Help Topics will help streamline your end-user’s help desk experience to ensu
 - Currently in the Admin Pangel, navigate to "Manage" tab > "Help Topics".
 - Click "Add New Help Topic".
 <p align=center>
-<img src="https://i.imgur.com/cYxBbIu.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="Screen Shot 2024-04-05 at 4 52 25 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/42811d56-4081-40c3-8594-e8a27fefc075">
 </p>
 
 - Create Help Topics with the following names:
@@ -210,8 +211,8 @@ _Help Topics will help streamline your end-user’s help desk experience to ensu
 - "Internal Notes" can be written down for personal use, but not necessary.
 - After that, click "Add Topic".
 <p align=center>
-<img src="https://i.imgur.com/8u6QJRG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/wVf8qYz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" alt="Screen Shot 2024-04-05 at 4 55 14 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/0124ee33-e2b0-49ef-9dd3-d605248899a1">
+<img width="750" alt="Screen Shot 2024-04-05 at 4 58 35 PM" src="https://github.com/TerikaJ/post-install-config/assets/136477450/26c6f45d-150f-4c60-aa91-91bb4d1cd607">
 </p>
 <hr>
 
